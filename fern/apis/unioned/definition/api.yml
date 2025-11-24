@@ -1,0 +1,8 @@
+name: api
+
+error-discrimination:
+  strategy: status-code
+
+default-environment: prod
+environments:
+  prod: https://api.example.com

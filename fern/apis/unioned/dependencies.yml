@@ -1,0 +1,3 @@
+dependencies:
+  api-a: ../api-a
+  api-b: ../api-b
